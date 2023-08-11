@@ -1,5 +1,5 @@
 # React_JS_Anychart_Map
-This sample has been created to shocase the way the Anychart map can been used in a React
+This sample has been created to showcase the way the Anychart map can be used in a React
 
 # How to set-up
 You have to have NodeJS
